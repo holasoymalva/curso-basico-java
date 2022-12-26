@@ -27,11 +27,12 @@ En el siguiente repositorio encontrarás ejemplos, demos y ejercicios de prácti
 * Arreglos
 * Programacion Orientada a Objertos con Java
 * Librerias
-* Consumo de datos
+* Consumo de base de datos
+* Persistencia de datos
+* Introduccion a sprint Boot
+* Consumir un servicio REST
 * Programacion funcional
 * Funciones de orden superior
-
-
 
 ## Autor
 
