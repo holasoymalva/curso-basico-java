@@ -29,7 +29,7 @@ En el siguiente repositorio encontrarás ejemplos, demos y ejercicios de prácti
 * Librerias
 * Consumo de base de datos
 * Persistencia de datos
-* Introduccion a sprint Boot
+* Introduccion a spring Boot
 * Consumir un servicio REST
 * Programacion funcional
 * Funciones de orden superior
